@@ -1,3 +1,4 @@
+// Instead of fixing the software bug directly, we found a workaround to bypass it."
 "use client";
 
 import React, { useState, useEffect } from "react";
@@ -8,7 +9,7 @@ interface ClientOnlyProps {
 
 const ClientOnly: React.FC<ClientOnlyProps> = ({ children }) => {
   const [hasMounted, setHasMounted] = useState(false);
-
+  //we know that useEffect runs after jsx has mounted
   useEffect(() => {
     setHasMounted(true);
   }, []);
