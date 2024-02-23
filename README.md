@@ -1,6 +1,6 @@
 ## Live Demo
 
-Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
+Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.app/). 👈 OR 👇
 
 <div style="border: 2px solid white; padding: 5px; width: 500px; margin: 0 auto; text-align: center;">
     <a href="https://rent-app-clone-ten.vercel.app/">
