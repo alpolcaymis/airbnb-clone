@@ -8,7 +8,7 @@ import { useCallback, useState } from "react";
 import axios from "axios";
 import toast from "react-hot-toast";
 import { error } from "console";
-import ListingCart from "../components/listings/ListingCart";
+import ListingCart from "../components/listings/ListingCard";
 
 interface PropertiesClientProps {
   listings: SafeListing[];

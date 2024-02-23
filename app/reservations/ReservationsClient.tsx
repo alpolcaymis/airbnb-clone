@@ -6,7 +6,7 @@ import { useCallback, useState } from "react";
 import toast from "react-hot-toast";
 import Heading from "../components/Heading";
 import Container from "../components/Container";
-import ListingCart from "../components/listings/ListingCart";
+import ListingCart from "../components/listings/ListingCard";
 import { SafeReservation, SafeUser } from "../types";
 
 interface ReservationsClientProps {

@@ -1,15 +1,18 @@
 "use client";
 
-import useCountries from "@/app/hooks/useCountries";
-import { SafeListing, SafeReservation, SafeUser } from "@/app/types";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useCallback, useMemo } from "react";
 import { format } from "date-fns";
-import Image from "next/image";
+
+import useCountries from "@/app/hooks/useCountries";
+import { SafeListing, SafeReservation, SafeUser } from "@/app/types";
+
 import HeartButton from "../HeartButton";
 import Button from "../Button";
+import ClientOnly from "../ClientOnly";
 
-interface ListingCartProps {
+interface ListingCardProps {
   data: SafeListing;
   reservation?: SafeReservation;
   onAction?: (id: string) => void;
@@ -19,7 +22,7 @@ interface ListingCartProps {
   currentUser?: SafeUser | null;
 }
 
-const ListingCart: React.FC<ListingCartProps> = ({
+const ListingCard: React.FC<ListingCardProps> = ({
   data,
   reservation,
   onAction,
@@ -40,15 +43,17 @@ const ListingCart: React.FC<ListingCartProps> = ({
       if (disabled) {
         return;
       }
+
       onAction?.(actionId);
     },
-    [onAction, actionId, disabled]
+    [disabled, onAction, actionId]
   );
 
   const price = useMemo(() => {
     if (reservation) {
       return reservation.totalPrice;
     }
+
     return data.price;
   }, [reservation, data.price]);
 
@@ -71,32 +76,37 @@ const ListingCart: React.FC<ListingCartProps> = ({
       <div className="flex flex-col gap-2 w-full">
         <div
           className="
-              aspect-square
-              w-full
-              relative
-              overflow-hidden
-              rounded-xl
-        "
+            aspect-square 
+            w-full 
+            relative 
+            overflow-hidden 
+            rounded-xl
+          "
         >
           <Image
             fill
-            alt="Listings"
-            src={data.imageSrc}
             className="
-              object-cover
-              h-full
-              w-full
-              group-hover:scale-110
+              object-cover 
+              h-full 
+              w-full 
+              group-hover:scale-110 
               transition
-              
-          "
+            "
+            src={data.imageSrc}
+            alt="Listing"
           />
-          <div className="absolute top-3 right-3">
+          <div
+            className="
+            absolute
+            top-3
+            right-3
+          "
+          >
             <HeartButton listingId={data.id} currentUser={currentUser} />
           </div>
         </div>
-        <div className="font-semibold text-lg ">
-          {location?.region},{location?.label}
+        <div className="font-semibold text-lg">
+          {location?.region}, {location?.label}
         </div>
         <div className="font-light text-neutral-500">
           {reservationDate || data.category}
@@ -118,4 +128,4 @@ const ListingCart: React.FC<ListingCartProps> = ({
   );
 };
 
-export default ListingCart;
+export default ListingCard;
