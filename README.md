@@ -2,6 +2,10 @@
 
 Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
 
+## Project Overview
+
+This project is a clone of a rental application, allowing users to search for rental properties, view details, and contact property owners. You can view the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
+
 ## Technologies Used
 
 | Technology   | Purpose                                    | Logo                                                                |
