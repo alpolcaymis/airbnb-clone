@@ -2,7 +2,7 @@
 
 import { Range } from "react-date-range";
 
-import Calendar from "@/app/components/inputs/Calender";
+import Calendar from "@/app/components/inputs/Calendar";
 
 import Button from "../Button";
 
