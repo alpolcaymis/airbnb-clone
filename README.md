@@ -8,23 +8,6 @@ Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.
     </a>
 </div>
 
-<div style="display: grid; grid-template-columns: 65% 35%;">
-    <div style="background-color: #f0f0f0; padding: 20px;">
-         <a href="https://rent-app-clone-ten.vercel.app/">
-        <img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="image" style="height: 500px; width: auto;">
-    </a>
-    </div>
-      <div style="background-color: #e0e0e0; padding: 20px;">
-          <a href="https://rent-app-clone-ten.vercel.app/">
-        <img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="image" style="height: 500px; width: auto;">
-    </a>
-    </div>
-    
-  
-</div>
-
-
-
 ## Project Overview
 
 This project is a clone of a rental application, allowing users to search for rental properties, view details, and contact property owners. You can view the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
