@@ -1,3 +1,4 @@
+
 import EmptyState from "@/app/components/EmptyState";
 import ClientOnly from "@/app/components/ClientOnly";
 
@@ -23,9 +24,12 @@ const ListingPage = async () => {
 
   return (
     <ClientOnly>
-      <FavoritesClient listings={listings} currentUser={currentUser} />
+      <FavoritesClient
+        listings={listings}
+        currentUser={currentUser}
+      />
     </ClientOnly>
   );
-};
-
+}
+ 
 export default ListingPage;
