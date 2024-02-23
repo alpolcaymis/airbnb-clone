@@ -12,15 +12,15 @@
 
 ## Dependencies Used
 
-| Package          | Purpose                                       | Logo                                                                |
-|------------------|-----------------------------------------------|---------------------------------------------------------------------|
-| axios            | Promise-based HTTP client for the browser and Node.js  | <div align="center"><img src="https://camo.githubusercontent.com/e56453737f3695a5d21d1393764ac1bc89032f5f4d2fc9fa486c980859347275/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667" alt="axios Logo" height="64"></div> |
-| bcrypt           | Library to help you hash passwords           | <div align="center"><img src="https://raw.githubusercontent.com/kelektiv/node.bcrypt.js/master/docs/bcrypt-logo-round.svg" alt="bcrypt Logo" height="64"></div> |
-| date-fns         | Modern JavaScript date utility library      | <div align="center"><img src="https://raw.githubusercontent.com/date-fns/date-fns/master/docs/static/logo.png" alt="date-fns Logo" height="64"></div> |
-| leaflet          | Leading open-source JavaScript library for interactive maps | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Leaflet_logo.svg" alt="leaflet Logo" height="64"></div> |
-| query-string     | Parse and stringify URL query strings       | <div align="center"><img src="https://raw.githubusercontent.com/sindresorhus/query-string/main/query-string-logo.svg" alt="query-string Logo" height="64"></div> |
-| world-countries  | Data of countries around the world          | <div align="center"><img src="https://raw.githubusercontent.com/mledoze/countries/master/assets/images/thumb.png" alt="world-countries Logo" height="64"></div> |
-| zustand          | Small, fast, and scaleable bearbones state-management for React | <div align="center"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/other/logo.png" alt="zustand Logo" height="64"></div> |
-| react-hook-form | Performant, flexible and extensible forms with easy-to-use validation | <div align="center"><img src="https://raw.githubusercontent.com/react-hook-form/website/main/src/images/logo-with-name.png" alt="react-hook-form Logo" height="64"></div> |
-| react-hot-toast  | React component for toast notifications     | <div align="center"><img src="https://raw.githubusercontent.com/timolins/react-hot-toast/main/docs/static/logo.svg" alt="react-hot-toast Logo" height="64"></div> |
+| Package          | Purpose                                       |
+|------------------|-----------------------------------------------|
+| axios            | Promise-based HTTP client for the browser and Node.js  |
+| bcrypt           | Library to help you hash passwords           |
+| date-fns         | Modern JavaScript date utility library      |
+| leaflet          | Leading open-source JavaScript library for interactive maps |
+| query-string     | Parse and stringify URL query strings       |
+| world-countries  | Data of countries around the world          |
+| zustand          | Small, fast, and scaleable bearbones state-management for React |
+| react-hook-form | Performant, flexible and extensible forms with easy-to-use validation |
+| react-hot-toast  | React component for toast notifications     |
 
