@@ -1,5 +1,5 @@
-## Live Demo
-
+## Live Demo 🌐
+ 
 Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.app/). 👈 OR 👇
 
 <div style="border: 2px solid white; padding: 5px; width: 500px; margin: 0 auto; text-align: center;">
@@ -14,7 +14,7 @@ Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.
 
 This project is a clone of a rental application, allowing users to search for rental properties, view details, and contact property owners. You can view the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
 
-## Technologies Used
+## Technologies Used 🔧
 
 | Technology   | Purpose                                    | Logo                                                                |
 |--------------|--------------------------------------------|---------------------------------------------------------------------|
@@ -25,7 +25,7 @@ This project is a clone of a rental application, allowing users to search for re
 | Tailwind CSS | Utility-first CSS framework for custom designs| <div align="center"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS Logo" height="64"></div> |
 | Next.js      | React framework for server-side rendering  | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" height="48" ></div> |
 
-## Dependencies Used
+## Dependencies Used 📦
 
 | Package                                           | Purpose                                                      |
 |---------------------------------------------------|--------------------------------------------------------------|
