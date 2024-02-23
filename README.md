@@ -9,9 +9,9 @@ Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-    <a href="https://link_to_your_demo1.com"><img src="image1_url" alt="Image 1" style="width: 100%;"></a>
-    <a href="https://link_to_your_demo2.com"><img src="image2_url" alt="Image 2" style="width: 100%;"></a>
-    <a href="https://link_to_your_demo3.com"><img src="image3_url" alt="Image 3" style="width: 100%;"></a>
+    <a href="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737"><img src="image1_url" alt="Image 1" style="width: 100%;"></a>
+    <a href="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737"><img src="image1_url" alt="Image 1" style="width: 100%;"></a>
+    <a href="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737"><img src="image1_url" alt="Image 1" style="width: 100%;"></a>
 </div>
 
 
