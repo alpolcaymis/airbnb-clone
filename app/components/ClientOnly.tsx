@@ -1,5 +1,5 @@
-// Instead of fixing the software bug directly, we found a workaround to bypass it."
 "use client";
+// Instead of fixing the software bug directly, we found a workaround to bypass it."
 
 import React, { useState, useEffect } from "react";
 
