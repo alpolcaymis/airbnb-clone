@@ -14,7 +14,7 @@
 
 | Package          | Purpose                                       | Logo                                                                |
 |------------------|-----------------------------------------------|---------------------------------------------------------------------|
-| axios            | Promise-based HTTP client for the browser and Node.js  | <div align="center"><img src="https://raw.githubusercontent.com/axios/axios/master/logo.svg" alt="axios Logo" height="64"></div> |
+| axios            | Promise-based HTTP client for the browser and Node.js  | <div align="center"><img src="https://camo.githubusercontent.com/e56453737f3695a5d21d1393764ac1bc89032f5f4d2fc9fa486c980859347275/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667" alt="axios Logo" height="64"></div> |
 | bcrypt           | Library to help you hash passwords           | <div align="center"><img src="https://raw.githubusercontent.com/kelektiv/node.bcrypt.js/master/docs/bcrypt-logo-round.svg" alt="bcrypt Logo" height="64"></div> |
 | date-fns         | Modern JavaScript date utility library      | <div align="center"><img src="https://raw.githubusercontent.com/date-fns/date-fns/master/docs/static/logo.png" alt="date-fns Logo" height="64"></div> |
 | leaflet          | Leading open-source JavaScript library for interactive maps | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Leaflet_logo.svg" alt="leaflet Logo" height="64"></div> |
