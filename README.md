@@ -1,4 +1,7 @@
-[Click to see on LIVE](https://rent-app-clone-ten.vercel.app/)
+## Live Demo
+
+Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
+
 ## Technologies Used
 
 | Technology   | Purpose                                    | Logo                                                                |
