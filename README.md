@@ -27,20 +27,6 @@ This project is a clone of a rental application, allowing users to search for re
 
 ## Dependencies Used
 
-| Package          | Purpose                                       |
-|------------------|-----------------------------------------------|
-| axios            | Promise-based HTTP client for the browser and Node.js  |
-| bcrypt           | Library to help you hash passwords           |
-| date-fns         | Modern JavaScript date utility library      |
-| leaflet          | Leading open-source JavaScript library for interactive maps |
-| query-string     | Parse and stringify URL query strings       |
-| world-countries  | Data of countries around the world          |
-| zustand          | Small, fast, and scaleable bearbones state-management for React |
-| react-hook-form | Performant, flexible and extensible forms with easy-to-use validation |
-| react-hot-toast  | React component for toast notifications     |
-
-## Dependencies Used
-
 | Package                                           | Purpose                                                      |
 |---------------------------------------------------|--------------------------------------------------------------|
 | 🚀 axios                                          | Promise-based HTTP client for the browser and Node.js        |
