@@ -1,13 +1,13 @@
 ## Live Demo
 
 Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
-![image](https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737)
 
-<div style="border: 2px solid black; padding: 5px; width: 500px; margin: 0 auto;">
-    <a href="https://www.google.com">
+<div style="border: 2px solid white; padding: 5px; width: 500px; margin: 0 auto;">
+    <a href="https://rent-app-clone-ten.vercel.app/">
         <img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="image" style="width: 100%; height: auto;">
     </a>
 </div>
+
 
 ## Project Overview
 
