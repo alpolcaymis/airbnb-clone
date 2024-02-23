@@ -8,4 +8,4 @@
 | MongoDB      | NoSQL database for storing and managing data| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB Logo" height="64"></div> |
 | Prisma       | ORM tool for database access and management| <div align="center"><img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma Logo" height="64"></div> |
 | Tailwind CSS | Utility-first CSS framework for custom designs| <div align="center"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS Logo" height="64"></div> |
-| Next.js      | React framework for server-side rendering  | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" height="64" width="48"></div> |
+| Next.js      | React framework for server-side rendering  | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" height="48" ></div> |
