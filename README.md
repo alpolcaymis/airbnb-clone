@@ -8,15 +8,6 @@ Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.
     </a>
 </div>
 
-<div style="display: grid; grid-template-columns: 65% 35%; grid-template-rows: auto auto; gap: 20px;">
-    <a href="https://link_to_your_demo1.com" style="grid-column: 1 / span 1; grid-row: 1 / span 2;"><img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="Image 1" style="width: 100%; height: 100%;"></a>
-    <a href="https://link_to_your_demo2.com"><img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="Image 2" style="width: 100%; height: 100%;"></a>
-    <a href="https://link_to_your_demo2.com"><img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="Image 2" style="width: 100%; height: 100%;"></a>
-</div>
-
-
-
-
 
 ## Project Overview
 
