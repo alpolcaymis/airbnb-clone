@@ -1,6 +1,7 @@
 ## Live Demo
 
 Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.app/).
+![image](https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737)
 
 ## Project Overview
 
