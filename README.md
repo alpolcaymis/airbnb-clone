@@ -18,7 +18,7 @@ This project is a clone of a rental application, allowing users to search for re
 |--------------|--------------------------------------------|---------------------------------------------------------------------|
 | TypeScript   | Static type-checking for JavaScript        | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" height="64px"></div> |
 | React        | JavaScript library for building UIs        | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" height="64px"></div> |
-| MongoDB      | NoSQL database for storing and managing data| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB Logo" height="64px"></div> |
+| MongoDB      | NoSQL database for storing and managing data| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB Logo" height="10rem" width="auto"></div> |
 | Prisma       | ORM tool for database access and management| <div align="center"><img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma Logo" height="64px"></div> |
 | Tailwind CSS | Utility-first CSS framework for custom designs| <div align="center"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS Logo" height="64px"></div> |
 | Next.js      | React framework for server-side rendering  | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" height="48px" ></div> |
