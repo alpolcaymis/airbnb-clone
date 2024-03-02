@@ -4,7 +4,7 @@ Check out the live demo of the project [here](https://rent-app-clone-ten.vercel.
 
 <div style="border: 2px solid white; padding: 5px; width: 500px; margin: 0 auto; text-align: center;">
     <a href="https://rent-app-clone-ten.vercel.app/">
-        <img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="image" style="height: 20rem; width: auto;">
+        <img src="https://github.com/alpolcaymis/airbnb-clone/assets/71964088/eed57963-d19c-4a53-963b-83f6c86a9737" alt="image" style="height: auto; width: 100%;">
     </a>
 </div>
 
