@@ -22,7 +22,6 @@ This project is a clone of a rental application, allowing users to search for re
 | Prisma       | ORM tool for database access and management| <div align="center"><img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma Logo" height="64px"></div> |
 | Tailwind CSS | Utility-first CSS framework for custom designs| <div align="center"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS Logo" height="35vh" width="auto"></div> |
 | Next.js      | React framework for server-side rendering  | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" height="48px" ></div> |
-![pngwing com](https://github.com/alpolcaymis/airbnb-clone/assets/71964088/9e9f3293-37a2-46ab-aad8-cd26958f9977)
 
 ## Dependencies Used 📦
 
